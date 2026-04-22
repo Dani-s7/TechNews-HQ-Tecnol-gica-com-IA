@@ -84,7 +84,7 @@ https://github.com/users/vitordominasc/projects/2/views/1
 
 ## 📅 Sprint 01
 
-http://github.com/Dani-s7/TechNews-HQ-Tecnol-gica-com-IA/issues?q=state%3Aopen%20label%3A%22Sprint%201%22
+https://github.com/Dani-s7/TechNews-HQ-Tecnol-gica-com-IA/issues
 
 ---
 
