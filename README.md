@@ -78,7 +78,7 @@ https://github.com/vitordominasc/projeto-technews
 
 ## 📌 Product Backlog
 
-http://github.com/users/Dani-s7/projects/1
+https://github.com/users/vitordominasc/projects/2/views/1
 
 ---
 
@@ -90,6 +90,6 @@ http://github.com/Dani-s7/TechNews-HQ-Tecnol-gica-com-IA/issues?q=state%3Aopen%2
 
 ## 📊 Kanban
 
-http://github.com/users/Dani-s7/projects/1
+https://github.com/users/vitordominasc/projects/2
 
 ---
