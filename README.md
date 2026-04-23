@@ -4,6 +4,7 @@
 
 * Danielle dos Santos
 * Paulo Vitor Domingos Nascimento
+* Raphael Oliveira Tavares
 
 ---
 
