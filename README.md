@@ -91,6 +91,6 @@ https://github.com/Dani-s7/TechNews-HQ-Tecnol-gica-com-IA/issues
 
 ## 📊 Kanban
 
-https://github.com/users/vitordominasc/projects/2
+https://github.com/users/Dani-s7/projects/1/views/6
 
 ---
