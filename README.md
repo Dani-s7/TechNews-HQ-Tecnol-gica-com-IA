@@ -97,7 +97,7 @@ https://github.com/Dani-s7/TechNews-HQ-Tecnol-gica-com-IA/issues
 
 ---
 ## 📅 Sprint 02
-
+https://github.com/users/Dani-s7/projects/1/views/6
 
 ---
 ## 📊 Kanban
