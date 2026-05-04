@@ -100,6 +100,9 @@ https://github.com/Dani-s7/TechNews-HQ-Tecnol-gica-com-IA/issues
 https://github.com/users/Dani-s7/projects/1/views/6
 
 ---
+## 📅 Sprint 03
+
+---
 ## 📊 Kanban
 
 https://github.com/users/Dani-s7/projects/1/views/6
