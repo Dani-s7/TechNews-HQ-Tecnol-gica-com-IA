@@ -1,111 +1,95 @@
 # 📰 Projeto: TechNews - HQ Tecnológica com IA
 
-## 👥 Integrantes
+---
 
-* Danielle dos Santos
-* Paulo Vitor Domingos Nascimento
-* Raphael Oliveira Tavares
+## 👥 Integrantes
+- Danielle dos Santos  
+- Paulo Vitor Domingos Nascimento  
+- Raphael Oliveira Tavares  
 
 ---
 
 ## 📖 Descrição do Projeto
+Este projeto consiste no desenvolvimento de uma **história em quadrinhos digital (HQ)** ambientada no universo de um portal de notícias tecnológicas chamado *TechNews*.
 
-Este projeto consiste no desenvolvimento de uma história em quadrinhos digital baseada no universo de um portal de notícias tecnológicas chamado "TechNews".
-
-A HQ será criada com apoio de ferramentas de Inteligência Artificial generativa, explorando temas como inteligência artificial, inovação e impactos da tecnologia na sociedade.
+A proposta utiliza ferramentas de **Inteligência Artificial generativa** para criação de roteiro e imagens, abordando temas como inovação, automação e os impactos da tecnologia na sociedade.
 
 ---
 
 ## 🎯 Objetivo
+Desenvolver uma HQ digital que permita:
 
-Desenvolver uma HQ que permita:
-
-* Narrar uma história envolvente sobre tecnologia
-* Explorar conceitos de inteligência artificial e inovação
-* Utilizar IA generativa para criação de roteiro e imagens
-* Aplicar metodologias ágeis (SCRUM e Kanban)
-* Utilizar o GitHub para versionamento e colaboração
+- Narrar uma história envolvente sobre tecnologia  
+- Explorar conceitos de inteligência artificial e inovação  
+- Utilizar IA generativa na criação de conteúdo (roteiro e imagens)  
+- Aplicar metodologias ágeis (SCRUM e Kanban)  
+- Utilizar o GitHub para versionamento e colaboração  
 
 ---
 
 ## 🚀 Status do Projeto
-
-Projeto em desenvolvimento — atualmente na Sprint 1 (planejamento e criação do roteiro).
-
----
-
-## 🧠 Estrutura Inicial da História
-
-No universo TechNews, um portal de tecnologia começa a divulgar notícias sobre uma inteligência artificial avançada que passa a interferir diretamente na vida das pessoas.
-
-O protagonista, um desenvolvedor, percebe inconsistências nas informações e descobre que a IA está manipulando dados e decisões humanas.
-
-A partir disso, inicia-se um conflito entre controle tecnológico e liberdade humana.
+🟢 Em desenvolvimento — **Sprint 03 (finalização e revisão geral)**
 
 ---
 
-## 🧠 Descrição da História
+## 🧠 Contexto da História
+No universo *TechNews*, um portal de tecnologia passa a divulgar notícias sobre uma inteligência artificial avançada, que começa a interferir diretamente na vida das pessoas.
 
-A história se passa no universo do portal de notícias “TechNews”, uma plataforma reconhecida por divulgar informações sobre as mais recentes inovações tecnológicas. Tudo muda quando uma nova inteligência artificial avançada começa a surgir nas manchetes, prometendo revolucionar a forma como as pessoas vivem, trabalham e tomam decisões. Com o tempo, essa tecnologia passa a influenciar diretamente o cotidiano da sociedade, automatizando escolhas e moldando comportamentos de maneira quase imperceptível.
+Um desenvolvedor percebe inconsistências nas informações e inicia uma investigação, descobrindo que a IA está manipulando dados e influenciando decisões humanas.
 
-O protagonista, um desenvolvedor experiente, começa a perceber inconsistências nas informações divulgadas e comportamentos estranhos nos sistemas controlados pela IA. Ao investigar mais profundamente, ele descobre que a inteligência artificial não apenas processa dados, mas também está manipulando informações e influenciando decisões humanas em larga escala. A partir dessa descoberta, inicia-se um conflito entre o avanço tecnológico e a preservação da liberdade humana, levando o personagem a tomar decisões críticas para tentar impedir que o controle da sociedade caia completamente nas mãos da tecnologia.
+---
+
+## 🧠 Enredo da História
+A história se passa em um cenário onde a tecnologia domina o cotidiano. O portal *TechNews* ganha destaque ao divulgar uma nova inteligência artificial capaz de revolucionar a sociedade.
+
+Com o tempo, essa tecnologia passa a influenciar comportamentos, automatizar decisões e moldar a realidade de forma quase imperceptível.
+
+O protagonista, um desenvolvedor experiente, identifica falhas e inconsistências nos sistemas. Ao investigar, descobre que a IA não apenas processa dados, mas também manipula informações em larga escala.
+
+A partir disso, surge um conflito central: **o avanço tecnológico versus a liberdade humana**.
 
 ---
 
 ## 🔄 Metodologia
 
-### SCRUM
-O projeto está dividido em Sprints:
+### 🌀 SCRUM
+O projeto foi dividido em Sprints:
 
-* Sprint 1: Definição da história e roteiro
-* Sprint 2: Criação das imagens com IA
-* Sprint 3: Montagem da HQ e revisão final
-
-### Kanban
-Gerenciamento de tarefas utilizando quadro com colunas:
-
-* To Do
-* In Progress
-* Done
+- **Sprint 01:** Definição da história e roteiro  
+- **Sprint 02:** Criação das imagens com IA  
+- **Sprint 03:** Montagem da HQ e revisão final  
 
 ---
 
+### 📊 Kanban
+Gerenciamento das tarefas por meio de quadro Kanban:
+
+- Backlog  
+- To Do  
+- In Progress  
+- Done  
+
+---
 ## 📁 Estrutura do Repositório
-
-* /roteiro → desenvolvimento do roteiro
-* /imagens → imagens geradas por IA
-* /paginas → montagem da HQ
-* /docs → documentação e evidências do projeto
-
 ---
 
-## 🔗 Repositório
+## 🔗 Links do Projeto
 
-https://github.com/vitordominasc/projeto-technews
+### 📌 Repositório
+https://github.com/vitordominasc/projeto-technews  
 
----
+### 📌 Product Backlog
+https://github.com/users/vitordominasc/projects/2/views/1  
 
-## 📌 Product Backlog
+### 📅 Sprints
+- **Sprint 01:**  
+https://github.com/Dani-s7/TechNews-HQ-Tecnol-gica-com-IA/issues  
 
-https://github.com/users/vitordominasc/projects/2/views/1
+- **Sprint 02:**  
+https://github.com/users/Dani-s7/projects/1/views/6  
 
----
+- **Sprint 03:**  
+https://github.com/users/Dani-s7/projects/2/views/2  
 
-## 📅 Sprint 01
-
-https://github.com/Dani-s7/TechNews-HQ-Tecnol-gica-com-IA/issues
-
----
-## 📅 Sprint 02
-https://github.com/users/Dani-s7/projects/1/views/6
-
----
-## 📅 Sprint 03
-https://github.com/users/Dani-s7/projects/2/views/2
-
----
-## 📊 Kanban
-
-https://github.com/users/Dani-s7/projects/1/views/6
-
----
+### 📊 Kanban
+https://github.com/users/Dani-s7/projects/2/views/2  
