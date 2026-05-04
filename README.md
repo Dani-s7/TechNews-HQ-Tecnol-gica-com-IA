@@ -101,6 +101,7 @@ https://github.com/users/Dani-s7/projects/1/views/6
 
 ---
 ## 📅 Sprint 03
+https://github.com/users/Dani-s7/projects/2/views/2
 
 ---
 ## 📊 Kanban
