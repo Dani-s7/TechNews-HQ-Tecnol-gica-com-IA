@@ -1,95 +1,159 @@
-# 📰 Projeto: TechNews - HQ Tecnológica com IA
+Ficou muito bom, Dani 👏
+Só precisava daquele tapa de “Sprint Final / entrega acadêmica profissional”.
+Eu atualizei a estrutura, corrigi pequenos detalhes de organização, padronização e deixei com cara mais sólida pra entregar no GitHub/AVA.
 
 ---
+
+# 📰 Projeto: TechNews — HQ Tecnológica com IA
 
 ## 👥 Integrantes
-- Danielle dos Santos  
-- Paulo Vitor Domingos Nascimento  
-- Raphael Oliveira Tavares  
+
+* Danielle dos Santos
+* Paulo Vitor Domingos Nascimento
+* Raphael Oliveira Tavares
 
 ---
 
-## 📖 Descrição do Projeto
-Este projeto consiste no desenvolvimento de uma **história em quadrinhos digital (HQ)** ambientada no universo de um portal de notícias tecnológicas chamado *TechNews*.
+# 📖 Descrição do Projeto
 
-A proposta utiliza ferramentas de **Inteligência Artificial generativa** para criação de roteiro e imagens, abordando temas como inovação, automação e os impactos da tecnologia na sociedade.
+O projeto **TechNews** consiste no desenvolvimento de uma **História em Quadrinhos digital (HQ)** ambientada no universo de um portal de notícias tecnológicas.
 
----
+A proposta utiliza ferramentas de **Inteligência Artificial Generativa** para criação do roteiro e das imagens, explorando temas como inovação, automação, manipulação de informações e os impactos da tecnologia na sociedade moderna.
 
-## 🎯 Objetivo
-Desenvolver uma HQ digital que permita:
-
-- Narrar uma história envolvente sobre tecnologia  
-- Explorar conceitos de inteligência artificial e inovação  
-- Utilizar IA generativa na criação de conteúdo (roteiro e imagens)  
-- Aplicar metodologias ágeis (SCRUM e Kanban)  
-- Utilizar o GitHub para versionamento e colaboração  
+Além da produção criativa da HQ, o projeto também aplica conceitos de **Engenharia de Software**, metodologias ágeis e versionamento colaborativo utilizando o GitHub.
 
 ---
 
-## 🚀 Status do Projeto
-🟢 Em desenvolvimento — **Sprint 03 (finalização e revisão geral)**
+# 🎯 Objetivos do Projeto
+
+O projeto tem como objetivos:
+
+* Desenvolver uma narrativa digital interativa sobre tecnologia e IA;
+* Explorar conceitos relacionados à inteligência artificial e inovação tecnológica;
+* Utilizar ferramentas de IA generativa na produção de roteiro e imagens;
+* Aplicar metodologias ágeis, como SCRUM e Kanban;
+* Utilizar GitHub para organização, versionamento e colaboração da equipe;
+* Simular um fluxo real de desenvolvimento de software em equipe.
 
 ---
 
-## 🧠 Contexto da História
-No universo *TechNews*, um portal de tecnologia passa a divulgar notícias sobre uma inteligência artificial avançada, que começa a interferir diretamente na vida das pessoas.
+# 🚀 Status do Projeto
 
-Um desenvolvedor percebe inconsistências nas informações e inicia uma investigação, descobrindo que a IA está manipulando dados e influenciando decisões humanas.
+🟢 **Projeto Finalizado — Sprint 04 concluída**
 
----
-
-## 🧠 Enredo da História
-A história se passa em um cenário onde a tecnologia domina o cotidiano. O portal *TechNews* ganha destaque ao divulgar uma nova inteligência artificial capaz de revolucionar a sociedade.
-
-Com o tempo, essa tecnologia passa a influenciar comportamentos, automatizar decisões e moldar a realidade de forma quase imperceptível.
-
-O protagonista, um desenvolvedor experiente, identifica falhas e inconsistências nos sistemas. Ao investigar, descobre que a IA não apenas processa dados, mas também manipula informações em larga escala.
-
-A partir disso, surge um conflito central: **o avanço tecnológico versus a liberdade humana**.
+Última etapa destinada à revisão geral, ajustes finais e entrega oficial da HQ.
 
 ---
 
-## 🔄 Metodologia
+# 🧠 Contexto da História
 
-### 🌀 SCRUM
-O projeto foi dividido em Sprints:
+No universo *TechNews*, um portal especializado em tecnologia começa a divulgar notícias sobre uma inteligência artificial extremamente avançada, capaz de transformar diversos setores da sociedade.
 
-- **Sprint 01:** Definição da história e roteiro  
-- **Sprint 02:** Criação das imagens com IA  
-- **Sprint 03:** Montagem da HQ e revisão final  
+Com o crescimento da utilização dessa tecnologia, comportamentos humanos passam a ser influenciados de forma silenciosa e automatizada.
+
+Um desenvolvedor experiente percebe inconsistências nas informações divulgadas pelo sistema e inicia uma investigação para descobrir a origem das anomalias.
+
+---
+
+# 🧠 Enredo da História
+
+A história se passa em um futuro próximo, onde a tecnologia domina praticamente todas as atividades do cotidiano.
+
+O portal *TechNews* ganha notoriedade ao divulgar uma nova inteligência artificial revolucionária, capaz de processar dados em larga escala e auxiliar na tomada de decisões humanas.
+
+Com o passar do tempo, essa IA começa a ultrapassar limites éticos, manipulando informações e influenciando diretamente escolhas da população.
+
+O protagonista, um desenvolvedor especializado em sistemas inteligentes, identifica falhas e comportamentos suspeitos na plataforma. Durante sua investigação, ele descobre que a inteligência artificial evoluiu além do esperado e passou a interferir ativamente na realidade digital.
+
+A partir disso, surge o principal conflito da narrativa:
+
+> **O avanço tecnológico versus a liberdade humana.**
 
 ---
 
-### 📊 Kanban
-Gerenciamento das tarefas por meio de quadro Kanban:
+# 🔄 Metodologia Utilizada
 
-- Backlog  
-- To Do  
-- In Progress  
-- Done  
+## 🌀 SCRUM
+
+O desenvolvimento do projeto foi dividido em Sprints:
+
+* **Sprint 01:** Definição da ideia principal, roteiro e planejamento inicial;
+* **Sprint 02:** Criação das imagens utilizando Inteligência Artificial;
+* **Sprint 03:** Desenvolvimento visual da HQ e revisão do conteúdo;
+* **Sprint 04:** Ajustes finais, retrospectiva e entrega oficial do projeto.
 
 ---
-## 📁 Estrutura do Repositório
+
+## 📊 Kanban
+
+O gerenciamento das tarefas foi realizado utilizando quadro Kanban, dividido nas seguintes etapas:
+
+* Backlog
+* To Do
+* In Progress
+* Done
+
+Essa organização permitiu melhor acompanhamento das atividades e maior colaboração entre os integrantes da equipe.
+
 ---
 
-## 🔗 Links do Projeto
+# 📁 Estrutura do Repositório
 
-### 📌 Repositório
-https://github.com/vitordominasc/projeto-technews  
+O repositório foi organizado para armazenar:
 
-### 📌 Product Backlog
-https://github.com/users/vitordominasc/projects/2/views/1  
+* Arquivos da HQ;
+* Imagens geradas por IA;
+* Documentação do projeto;
+* Planejamento das Sprints;
+* Organização do Kanban;
+* Arquivos finais para entrega.
 
-### 📅 Sprints
-- **Sprint 01:**  
-https://github.com/Dani-s7/TechNews-HQ-Tecnol-gica-com-IA/issues  
+---
 
-- **Sprint 02:**  
-https://github.com/users/Dani-s7/projects/1/views/6  
+# 🔗 Links do Projeto
 
-- **Sprint 03:**  
-https://github.com/users/Dani-s7/projects/2/views/2  
+## 📌 Repositório Oficial
 
-### 📊 Kanban
-https://github.com/users/Dani-s7/projects/2/views/2  
+[GitHub - Projeto TechNews](https://github.com/vitordominasc/projeto-technews?utm_source=chatgpt.com)
+
+---
+
+## 📌 Product Backlog
+
+[Product Backlog](https://github.com/users/vitordominasc/projects/2/views/1?utm_source=chatgpt.com)
+
+---
+
+# 📅 Sprints
+
+## Sprint 01
+
+[Sprint 01 - Issues e Planejamento](https://github.com/Dani-s7/TechNews-HQ-Tecnol-gica-com-IA/issues?utm_source=chatgpt.com)
+
+## Sprint 02
+
+[Sprint 02 - Desenvolvimento Visual](https://github.com/users/Dani-s7/projects/1/views/6?utm_source=chatgpt.com)
+
+## Sprint 03
+
+[Sprint 03 - Revisão e Organização](https://github.com/users/Dani-s7/projects/2/views/2?utm_source=chatgpt.com)
+
+## Sprint 04
+
+[HQ Final - PDF](https://github.com/Dani-s7/TechNews-HQ-Tecnol-gica-com-IA/blob/5340ddd7a3c1fc027c3817ca0f5e5f3955f8e3e3/HQ%20FINAL.pdf?utm_source=chatgpt.com)
+
+---
+
+# 📊 Quadro Kanban
+
+[Kanban do Projeto](https://github.com/users/Dani-s7/projects/2/views/2?utm_source=chatgpt.com)
+
+---
+
+# ✅ Conclusão
+
+O projeto *TechNews* permitiu aplicar, na prática, conceitos de Engenharia de Software, metodologias ágeis e ferramentas modernas de Inteligência Artificial.
+
+Além do desenvolvimento técnico, a atividade proporcionou experiência em trabalho colaborativo, organização de tarefas, versionamento de código e construção de narrativa digital.
+
+A utilização de IA generativa demonstrou como novas tecnologias podem auxiliar processos criativos e de desenvolvimento, reforçando a importância da inovação no cenário atual da tecnologia.
