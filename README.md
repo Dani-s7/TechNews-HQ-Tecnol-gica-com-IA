@@ -1,9 +1,3 @@
-Ficou muito bom, Dani 👏
-Só precisava daquele tapa de “Sprint Final / entrega acadêmica profissional”.
-Eu atualizei a estrutura, corrigi pequenos detalhes de organização, padronização e deixei com cara mais sólida pra entregar no GitHub/AVA.
-
----
-
 # 📰 Projeto: TechNews — HQ Tecnológica com IA
 
 ## 👥 Integrantes
@@ -41,7 +35,7 @@ O projeto tem como objetivos:
 
 🟢 **Projeto Finalizado — Sprint 04 concluída**
 
-Última etapa destinada à revisão geral, ajustes finais e entrega oficial da HQ.
+Última etapa destinada à revisão geral, retrospectiva e entrega oficial da HQ.
 
 ---
 
@@ -141,6 +135,41 @@ O repositório foi organizado para armazenar:
 ## Sprint 04
 
 [HQ Final - PDF](https://github.com/Dani-s7/TechNews-HQ-Tecnol-gica-com-IA/blob/5340ddd7a3c1fc027c3817ca0f5e5f3955f8e3e3/HQ%20FINAL.pdf?utm_source=chatgpt.com)
+
+---
+
+# 🔄 Sprint Retrospective
+
+Durante o desenvolvimento do projeto *TechNews*, a equipe realizou uma análise retrospectiva das Sprints executadas, avaliando pontos positivos, dificuldades encontradas e oportunidades de melhoria no processo.
+
+## ✅ O que funcionou bem
+
+* Boa colaboração entre os integrantes da equipe;
+* Organização eficiente das tarefas utilizando Kanban;
+* Uso de Inteligência Artificial para agilizar a criação das imagens e do roteiro;
+* Cumprimento das etapas planejadas dentro das Sprints.
+
+## ⚠️ Dificuldades encontradas
+
+* Ajustes necessários na integração entre roteiro e imagens;
+* Revisões frequentes para manter a coerência da narrativa;
+* Adaptação ao uso das ferramentas de IA generativa.
+
+## 🚀 Melhorias identificadas
+
+* Melhor divisão inicial das tarefas;
+* Planejamento mais detalhado das entregas;
+* Maior padronização visual da HQ desde as primeiras etapas.
+
+## 🎯 Resultado Final
+
+A equipe conseguiu concluir o projeto com sucesso, aplicando conceitos de Engenharia de Software, metodologias ágeis e ferramentas modernas de desenvolvimento colaborativo.
+
+---
+
+## 📌 Link da Sprint Retrospective
+
+[Sprint Retrospective](https://github.com/Dani-s7/TechNews-HQ-Tecnol-gica-com-IA?utm_source=chatgpt.com)
 
 ---
 
